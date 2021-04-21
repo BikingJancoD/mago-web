@@ -50,7 +50,7 @@ const IndexTemplate = ({ data, pageContext }) => {
           hasPrevPage={hasPrevPage}
           hasNextPage={hasNextPage}
         />
-        <Copyright />
+        {/* <Copyright /> */}
       </Page>
     </Layout>
   )

@@ -1,21 +1,21 @@
 module.exports = {
-  url: 'https://gatsby-starter-blog-and-cv.netlify.app',
+  url: 'https://magosport.science',
   pathPrefix: '/',
-  title: 'Blog by Marat Dospolov',
+  title: 'Mago Sport Science - Hilvar Malaver',
   keywords:
-    'account surfer, trello bookmark, trello, productivity, javascript, Marat Dospolov, choosy windows, browser selector',
-  subtitle: 'Developer. Optimizer. Learner.',
-  copyright: '© 2020 | Kyiv, Ukraine',
-  disqusShortname: 'dospolov',
+    'Hilvar,Malaver,Mago,Entrenador,Ciclismo,Sport,Science',
+  subtitle: 'Entrenador profesional en ciencias del deporte.',
+  copyright: '© 2021 | Ubaté, Colombia',
+  disqusShortname: 'hilvarmago',
   postsPerPage: 20,
-  googleAnalyticsId: 'UA-6589522-7',
+  googleAnalyticsId: 'G-G2XN8ZLZKW',
   menu: [
     {
       label: 'Blog',
       path: '/'
     },
     {
-      label: 'CV',
+      label: 'Mago',
       path: '/cv'
     }
   ],

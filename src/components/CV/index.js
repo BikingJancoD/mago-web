@@ -18,11 +18,11 @@ const CV = () => (
     <Content className="m-5">
       {data.header && <Header header={data.header} />}      
       {data.pitchLine && <PitchLine pitchLine={data.pitchLine} />}      
-      {data.skills && <SkillList skills={data.skills} />}
+      {/* {data.skills && <SkillList skills={data.skills} />}
       {data.experience && <Experience experience={data.experience} />}
       {data.volunteer && <Volunteer volunteer={data.volunteer} />}
       {data.education && <Education education={data.education} />}
-      {data.recommendations && <Recommendations recommendations={data.recommendations} />}
+      {data.recommendations && <Recommendations recommendations={data.recommendations} />} */}
       {data.footer && <Footer footer={data.footer} />}
     </Content>
   </>
