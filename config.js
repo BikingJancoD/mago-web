@@ -20,18 +20,18 @@ module.exports = {
     }
   ],
   author: {
-    name: 'Marat Dospolov',
-    photo: '/photo.jpg',
-    bio: 'Developer. Optimizer. Learner.',
+    name: 'Hilvar Malaver',
+    photo: '/photo.png',
+    bio: 'Entrenador profesional en ciencias del deporte. Atleta de Rendimiento - Entrenador Profesional - Bike Fitter 📐 - Coffee lover ☕️',
     contacts: {
       // don't remove fields, just make them empty string ''
       // https://github.com/gatsbyjs/gatsby/issues/2392
-      github: 'dospolov',
-      twitter: 'marat_dospolov',
-      linkedin: 'dospolov',
-      telegram: 'dospolov',
-      instagram: 'dospolov',
-      facebook: 'dospolov',
+      github: '',
+      twitter: 'Hilvar_Malaver',
+      linkedin: 'hilvar-malaver-calder%C3%B3n-a19654120',
+      telegram: '',
+      instagram: 'hilvarmago',
+      facebook: 'hilvarmago',
       email: '',
       rss: '/rss.xml'
     }
