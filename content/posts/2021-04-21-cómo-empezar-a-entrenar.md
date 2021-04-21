@@ -1,7 +1,7 @@
 ---
 template: post
 title: Cómo empezar a entrenar?
-slug: Como-empezar-a-entrenar?
+slug: Como-empezar-a-entrenar
 draft: false
 priority: 0
 date: 2020-11-23T15:53:38.550Z
