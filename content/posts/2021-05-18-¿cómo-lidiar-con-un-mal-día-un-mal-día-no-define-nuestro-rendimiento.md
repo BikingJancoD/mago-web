@@ -2,7 +2,7 @@
 template: post
 title: ¿Cómo lidiar con un mal día? Un mal día no define nuestro rendimiento.
 slug: como-lidiar-un-mal-dia
-draft: true
+draft: false
 priority: 0
 date: 2021-05-18T23:44:08.819Z
 description: >-
