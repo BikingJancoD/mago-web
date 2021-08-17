@@ -3,7 +3,7 @@ template: post
 title: Mentes de Corto Plazo
 slug: Mente
 draft: false
-priority: 0
+priority: 1
 date: 2021-08-17T22:02:34.825Z
 description: ¿Cómo enfrentar una mente de corto plazo?
 category: Psicología
