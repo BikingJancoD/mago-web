@@ -8,7 +8,7 @@ date: 2021-08-17T22:13:09.592Z
 description: ¿Cómo enfrentar una mente de corto plazo?
 category: Psicología
 tags:
-  - "#psicología #deporte #rendimiento #saludmental"
+  - psicología deporte rendimiento saludmental
 ---
 Dan le preguntó a un veterano canoso, ¿qué necesitaba hacer para obtener una beca deportiva universitaria?. El entrenador respondió: "Levanta pesas tres días a la semana y lanza el disco cuatro días a la semana durante ocho años".\
 \
