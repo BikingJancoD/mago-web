@@ -2,7 +2,7 @@
 template: post
 title: ¿Descansar? ¿pretemporada?
 slug: Descanso y pretemporada
-draft: true
+draft: false
 priority: 0
 date: 2021-11-29T21:24:05.076Z
 description: "Cuándo realmente debo detenerme para recargar baterías para
